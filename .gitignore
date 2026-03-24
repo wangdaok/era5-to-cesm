@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Data files (large, should not be in repo)
+*.nc
+*.nc4
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images (analysis artifacts)
+*.png
+
+# uv lock file
+uv.lock
